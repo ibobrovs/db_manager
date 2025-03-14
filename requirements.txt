@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+pymysql
+pyodbc
+pymongo
+pandas
+oracledb
+openpyxl
+PyQt6
+matplotlib
+paramiko
